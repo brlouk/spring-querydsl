@@ -14,7 +14,7 @@ public class Customer {
 
 	private String firstName;
 	private String lastName;
-
+	
 	public String getFirstName() {
 		return firstName;
 	}
@@ -34,8 +34,8 @@ public class Customer {
 	public long getId() {
 		return id;
 	}
-
 	public void setId(long id) {
 		this.id = id;
 	}
+
 }
